@@ -1,0 +1,4 @@
+interface:
+  display_name: "Concre Media Creative Director"
+  short_description: "Shape Concre Media strategy and content plans"
+  default_prompt: "Use $agency-creative-director to develop a Concre Media client's strategy, creative direction, and content plan."
